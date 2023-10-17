@@ -101,11 +101,19 @@ section #BA {
         padding: 10px;
     }
 
+    .caja {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .destino {
+        margin: 10px 0;
+        text-align: center;
+    }
+
     p {
         font-size: 1.25em;
         margin-left: 10px ;
-    }
-
-    
+    }    
 }
 
